@@ -1,4 +1,2 @@
-install.packages(c(
-  "tidyverse",
-  "infer"
-))
+install.packages("tidyverse")
+install.packages("infer")
